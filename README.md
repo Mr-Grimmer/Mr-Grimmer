@@ -23,4 +23,4 @@
 
 📫 Contact:
 - <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="16"> [Instagram](https://www.instagram.com/blazetempest_2002/)
-- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png" width="16"> [Discord Server](https://discord.gg/Z6gq6wz8NF)
+- <img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" width="16"> [Discord Server](https://discord.gg/Z6gq6wz8NF)
