@@ -23,4 +23,4 @@
 
 📫 Contact:
 - [Instagram](https://www.instagram.com/blazetempest_2002/)
-- <img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" width="20"> [Discord Server](https://discord.gg/Z6gq6wz8NF)
+- [Discord Server](https://discord.gg/Z6gq6wz8NF)
