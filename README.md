@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Mr-Grimmer
-- 👀 I’m interested in Fullstack Website Development
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on differnt types of Frontend and Backend projects
-- 📫 Connect with me on Instagram - blazetempest_2002 and on my Discord server - https://discord.gg/pdDU2UWJ
+👋 Hello, I'm Anupunja Dasgupta
 
-<!---
-Mr-Grimmer/Mr-Grimmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Sc. Computer Science graduate
+💻 Fullstack Website Development Enthusiast
+
+🌟 Skills:
+- Adaptability
+- Quick problem-solving
+- Frontend Development:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - TailwindCSS
+  - JQuery
+  - AJAX
+- Backend Development: 
+  - Proficient in PHP
+
+🔍 Currently Learning:
+- Deepening my understanding of backend development
+
+🚀 Passionate about technology and creating web experiences. Let's build something amazing together! 💡
+
+📫 Contact:
+- <ion-icon name="logo-instagram"></ion-icon> [Instagram](https://www.instagram.com/blazetempest_2002/)
+- <img src="discord_icon_url" width="16"> [Discord Server](https://discord.gg/Z6gq6wz8NF)
