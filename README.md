@@ -22,5 +22,5 @@
 🚀 Passionate about technology and creating web experiences. Let's build something amazing together! 💡
 
 📫 Contact:
-- <ion-icon name="logo-instagram"></ion-icon> [Instagram](https://www.instagram.com/blazetempest_2002/)
+- <img src="[discord_icon_url](https://blog.hootsuite.com/wp-content/themes/hootsuite-2020/images/new/logo-compact.svg)" width="16"> [Instagram](https://www.instagram.com/blazetempest_2002/)
 - <img src="discord_icon_url" width="16"> [Discord Server](https://discord.gg/Z6gq6wz8NF)
