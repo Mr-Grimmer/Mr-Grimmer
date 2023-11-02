@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://bento.me/anupunjadasgupta)
 <h1 align="center">Hi 👋, I'm Anupunja Dasgupta</h1>
 <h3 align="center">A Front Developer | Currently Diving Deep in Full Stack Development</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-grimmer&label=Profile%20views&color=0e75b6&style=flat" alt="mr-grimmer" /> </p>
 
