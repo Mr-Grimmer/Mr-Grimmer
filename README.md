@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-grimmer&label=Profile%20views&color=0e75b6&style=flat" alt="mr-grimmer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-grimmer" alt="mr-grimmer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/howl2002" target="blank"><img src="https://img.shields.io/twitter/follow/howl2002?logo=twitter&style=for-the-badge" alt="howl2002" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack E-Commerce Website**
